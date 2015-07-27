@@ -111,7 +111,7 @@ var elizaKeywords = [
 "The Self is only one. Do you feel hurt if you blame yourself or scorn yourself for your errors? If you hold the Self there is no second person to scorn you. When you see the world you have lost hold of the Self. On the contrary, hold the Self and the world will not appear.",
 "In the Heart's cavity, the sole Brahman as an ever-persisting 'I' shines direct in the form of the Self. Into the Heart enter thyself, with mind in search or in deeper plunge. Or by restraint of life-movement be firmly poised in the Self.",
 "Let knowledge be guessed by the sign of equality to all beings.",
-"… just as the limb gives assistance to the body, likewise the member of the community helps the community and reigns supreme.",
+". . . just as the limb gives assistance to the body, likewise the member of the community helps the community and reigns supreme.",
 "It is said that a good brotherly feeling with a sense of equality is the supreme goal to be reached collectively by all members of the community.",
 "By happy fraternity amongst themselves, the embodied beings get the supreme peace. Then all this earth shines like one house. When the men, the embodied beings treat each other with equal respect and have good brotherly feelings amongst themselves, great peace and harmony abound. Then all this earth shines like one house. The whole world shines like the one dwelling house of the entire human family.",
 "[A member of the community] should conduct himself always by word, mind and body in such a fashion that it results in help to the society. He should also make his own men understand this.",
